@@ -1,1 +1,1 @@
-"Ini adalah file README" 
+"Sunscreen adalah produk perawatan kulit yang dirancang untuk melindungi kulit dari efek negatif sinar UV (Ultraviolet) matahari. Kegunaan utama sunscreen adalah melindungi kulit dari kerusakan yang disebabkan oleh paparan sinar UV, termasuk sunburn, penuaan kulit dini, dan risiko kanker kulit." 
