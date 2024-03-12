@@ -1,1 +1,1 @@
-"ini adalah branch 1 baru" 
+"ini adalah branch 2 baru" 
